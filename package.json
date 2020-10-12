@@ -4,8 +4,8 @@
   "description": "Use antd in parcel",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./public/index.html",
-    "build": "parcel build ./public/index.html"
+    "dev": "parcel ./public/*.html --out-dir debug",
+    "build": "parcel build ./public/*.html --out-dir release"
   },
   "keywords": [
     "Ant Design",

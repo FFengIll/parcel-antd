@@ -27,6 +27,11 @@ yarn build
 
 Visit http://localhost:1234
 
+
+## Furthermore
+Apply with Backend & Front, see [Furthermore](FURTHERMORE.md)
+
+
 ---
 
 - [Parcel](https://parceljs.org/)
